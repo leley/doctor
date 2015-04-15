@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://static.leley.com/app/20150403/DoctorTools.ipa</string>
+					<string>http://static.leley.com/app/20150415/DoctorTools.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.leley.enterprise.DoctorTools</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
